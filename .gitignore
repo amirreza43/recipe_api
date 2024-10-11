@@ -2,3 +2,4 @@ venv
 venv_mac
 .env
 **/migrations/*
+**/__pycache__/*
