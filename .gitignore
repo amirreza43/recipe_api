@@ -1,0 +1,4 @@
+venv
+venv_mac
+.env
+**/migrations/*
